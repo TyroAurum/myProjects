@@ -10,5 +10,4 @@
 
 ## Projects
 
-*[Amazon Product Price Tracker]
-
+* [Amazon Product Price Tracker]
