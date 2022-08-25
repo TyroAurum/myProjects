@@ -7,6 +7,7 @@
 ---
 
 <br />
+
 ## Projects
 
 *[Amazon Product Price Tracker]
