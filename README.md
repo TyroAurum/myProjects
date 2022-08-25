@@ -10,4 +10,4 @@
 
 ## Projects
 
-* [Amazon Product Price Tracker]
+* [Amazon Product Price Tracker](https://github.com/TyroAurum/myPythonProjects/tree/main/Amazon%20Price%20Tracker)
