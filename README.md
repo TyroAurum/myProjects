@@ -1,2 +1,4 @@
-#### myPythonProjects
-A repository of some small projects done by me.
+<div align="center">
+  <h1>Minor Python Projects</h1>
+  <p>A list of minor python projects</p>
+</div>
