@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Minor Projects</h1>
-  <p>A list of minor python projects</p>
+  <p>A list of minor projects</p>
 </div>
 <br />
 
