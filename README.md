@@ -24,8 +24,8 @@
 
 ## Node JS
 
-*[FLAMES]()
-*[Zodiac]()
+* [FLAMES]()
+* [Zodiac]()
 
 
 <br  />
@@ -36,4 +36,4 @@
  
  ## React JS
  
- *[Movie Land]
+ * [Movie Land]
