@@ -26,7 +26,7 @@
 
 * [FLAMES](https://github.com/TyroAurum/myProjects/tree/main/Node.js/smallPkgs/flames)
 * [Zodiac]()
-* [Fact Generator]()
+* [Fact Generator](https://github.com/TyroAurum/myProjects/tree/main/Node.js/smallPkgs/Fact%20Generator)
 
 <br  />
  
@@ -36,4 +36,4 @@
  
  ## React JS
  
- * [Movie Land]
+ * [Movie Land]()
